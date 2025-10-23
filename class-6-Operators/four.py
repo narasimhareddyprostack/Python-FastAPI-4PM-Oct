@@ -1,0 +1,1 @@
+print("Rahul"*10.0)

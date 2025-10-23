@@ -1,0 +1,5 @@
+print(10/3)
+print(10//3)
+print("*************Float operating type*******")
+print(10/3.0)
+print(10//3.0)

@@ -1,0 +1,8 @@
+r1=range(10)
+r2=range(5,15)
+r3=range(2,18,2)
+r4=range(1,25,5)
+print(r1)
+print(r2)
+print(r3)
+print(r4)
