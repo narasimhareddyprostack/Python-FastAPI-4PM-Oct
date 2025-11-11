@@ -1,0 +1,7 @@
+pip install mysql-connector-python
+----------------------------------
+Create new mysql table
+insert one row or mutliple rows 
+update data
+read all rows 
+delete data
