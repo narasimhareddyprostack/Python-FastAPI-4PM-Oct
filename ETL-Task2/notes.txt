@@ -1,0 +1,21 @@
+Task 2:
+---------
+REST URL: https://dummyjson.com/products
+Method Method:GET
+Access Type:Public
+Required Fields: None
+Consume Rest Api in python, insert/write data into new
+1)product.csv file
+2)product.json file
+3)Insert into mysql Product table
+4)insert into mongoDB Product collection
+
+
+db4
+create table products(
+pid int ,
+name varchar(50),
+price float,
+category varchar(32),
+rating float
+);
